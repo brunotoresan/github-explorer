@@ -10,7 +10,7 @@
 </p>
 
 ## 🔥 About the project
-The app gets all Rocketseat's public repositories via GitHub API and lists them with their respective links. In this project I learned a lot of fundamentals, including:
+This app gets all Rocketseat's public repositories via GitHub API and lists them with their respective links. In this project I learned a lot of fundamentals, including:
 - How to configure the structure of a React project from scratch with Babel, webpack, typescript and SaSS loader
 - Webpack Dev Server to automatically update the bundle file
 - Source maps for visualize the app's original code in the browser's dev tools
