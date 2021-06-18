@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Github Explorer</h1>
-<p align="center">Rocketseat - Ignite - Chapter I<strong>COVID-19</strong></p>
+<p align="center">Rocketseat - Ignite - <strong>Chapter I</strong></p>
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-installation-and-execution">Installation and execution</a>
