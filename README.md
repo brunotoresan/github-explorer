@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="70%" src="https://imgur.com/tUvuX9S" alt="Project Image"/>
+    <img width="70%" src="https://imgur.com/tUvuX9S.png" alt="Project Image"/>
 </p>
 
 <h1 align="center">Github Explorer</h1>
@@ -13,5 +13,5 @@
 This is my first project
 
 ## 💻 Installation and execution
-To install the project you should run `yarn install`
+To install the project you should run `yarn install`<br>
 To run the project in your machine you should run `yarn dev`
